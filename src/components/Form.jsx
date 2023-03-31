@@ -11,7 +11,7 @@ function Form() {
   return (
     <section className="my-10">
       <form
-        className="w-full flex flex-col sm:flex-row justify-center items-center gap-6"
+        className="w-[300px] mx-auto flex flex-col sm:flex-row justify-center items-center gap-6"
         onSubmit={handleFormSubmit}
       >
         <input
