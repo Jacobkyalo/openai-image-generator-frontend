@@ -6,7 +6,7 @@ function Hero() {
           Generate images with OpenAI
         </h1>
         <p className="mt-6 text-[17px] sm:text-[25px] font-[300]">
-          Enter your prompts in the form below...
+          Enter your prompt in the form below...
         </p>
       </div>
     </section>
