@@ -16,7 +16,6 @@ function ImageContextProvider({ children }) {
       });
       const data = await response.data;
       setImages(data.images);
-      console.log(data);
       setLoading(false);
       setPrompt("");
     } catch (error) {
